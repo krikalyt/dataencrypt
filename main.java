@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.Formatter;
 import java.util.Random;
 import java.util.Scanner;
-
+//encryption of a text file
 public class main
 {
     public static void main(String[] args)
