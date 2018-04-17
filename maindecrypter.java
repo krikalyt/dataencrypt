@@ -33,7 +33,7 @@ public class maindecrypter {
         int [] size = new int[filewala1.length()];
 
         for (int j = 0; j < filewala1.length(); j++) {
-            sizing[j] = filewala1.charAt(i);
+            sizing[j] = filewala1.charAt(j);
         }
 
         for (int j = 0; j < filewala1.length(); j++) {
